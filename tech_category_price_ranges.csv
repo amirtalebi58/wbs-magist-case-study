@@ -1,0 +1,15 @@
+category_name,price_range,item_count
+audio,Mid,114
+audio,Low,117
+audio,High,133
+electronics,Low,1967
+electronics,High,309
+electronics,Mid,491
+computers_accessories,Low,2001
+computers_accessories,Mid,3289
+computers_accessories,High,2537
+books_technical,Mid,129
+books_technical,Low,98
+books_technical,High,40
+computers,High,202
+computers,Low,1
